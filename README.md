@@ -104,3 +104,16 @@ baz
 [INFO] Final Memory: 18M/172M
 [INFO] ------------------------------------------------------------------------
 ```
+
+
+Bisect
+------
+
+* 07d946c: pass
+* 0447613: fail
+* ecbf40f: fail
+* d80adae: pass
+* 3243c9f: fail
+* a8e12f0: pass
+* 1d0f7c0: pass
+* 525bf3e: pass
